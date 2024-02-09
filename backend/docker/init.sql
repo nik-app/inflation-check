@@ -1,0 +1,2 @@
+CREATE DATABASE fastapi_test;
+CREATE DATABASE fastapi;
